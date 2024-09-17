@@ -7,7 +7,7 @@ import Website from "../images/website.svg"
 function Contact(){
 	return(
 		<div className="contacts">
-			<h1>Contact Me</h1>
+			<h1>Contact</h1>
 			<div className="div_blockk">
 				<div className="div_long"></div>
 				<div className="div_short"></div>

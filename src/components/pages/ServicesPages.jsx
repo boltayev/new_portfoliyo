@@ -19,37 +19,37 @@ function ServicesPages(){
 			<div className="first_block">
 				<img src={Comp} alt="phone" />
 				<div className="desiner">UX/UI Designer</div>
-				<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Optio iure dignissimos quo excepturi libero quos ipsa fugiat similique modi dolorem.</p>
+				{/* <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Optio iure dignissimos quo excepturi libero quos ipsa fugiat similique modi dolorem.</p> */}
 			</div>
 
 			<div className="first_block">
 				<img src={Phoness} alt="phone" />
 				<div className="desiner">Mobile Version</div>
-				<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Optio iure dignissimos quo excepturi libero quos ipsa fugiat similique modi dolorem.</p>
+				{/* <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Optio iure dignissimos quo excepturi libero quos ipsa fugiat similique modi dolorem.</p> */}
 			</div>
 
 			<div className="first_block">
 				<img src={Css} alt="phone" />
 				<div className="desiner">Css </div>
-				<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Optio iure dignissimos quo excepturi libero quos ipsa fugiat similique modi dolorem.</p>
+				{/* <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Optio iure dignissimos quo excepturi libero quos ipsa fugiat similique modi dolorem.</p> */}
 			</div>
 
 			<div className="first_block">
 				<img src={React} alt="phone" />
 				<div className="desiner">React Js</div>
-				<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Optio iure dignissimos quo excepturi libero quos ipsa fugiat similique modi dolorem.</p>
+				{/* <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Optio iure dignissimos quo excepturi libero quos ipsa fugiat similique modi dolorem.</p> */}
 			</div>
 
 			<div className="first_block">
 				<img src={Js} alt="phone" />
 				<div className="desiner">Js Code</div>
-				<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Optio iure dignissimos quo excepturi libero quos ipsa fugiat similique modi dolorem.</p>
+				{/* <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Optio iure dignissimos quo excepturi libero quos ipsa fugiat similique modi dolorem.</p> */}
 			</div>
 
 			<div className="first_block">
 				<img src={Code} alt="phone" />
 				<div className="desiner">Tailwind css</div>
-				<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Optio iure dignissimos quo excepturi libero quos ipsa fugiat similique modi dolorem.</p>
+				{/* <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Optio iure dignissimos quo excepturi libero quos ipsa fugiat similique modi dolorem.</p> */}
 			</div>
 
 		</section>

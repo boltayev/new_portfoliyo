@@ -7,7 +7,7 @@ import { TypeAnimation } from 'react-type-animation';
 function AboutPages(){
 	return (
 		<div className='aboutPages'>
-			<h1>About Me</h1>
+			<h1>Men haqimda</h1>
 			<div className='div_long'></div>
 			<div className='div_short'></div>
 			<div className='name'>
@@ -30,7 +30,7 @@ function AboutPages(){
 
 			<p>
 				Qashqadaryo Viloyati Shaxrisabz shahrida tug'ilganman.Tatu Qarshi
-				filiali intitutini tamomlaganman.Undan Undan tashqari Open Web IT
+				filiali intitutini tamomladim.Undan Undan tashqari Open Web IT
 				Academiyasini o'qib tugatganman.Bir qancha joylarda shu soxa bo'yicha
 				ishlaganman.
 			</p>
@@ -53,7 +53,8 @@ function AboutPages(){
 					</div>
 
 					<div className='degree'>
-						<div>Instagram manzil: <br />
+						<div>
+							Instagram manzil: <br />
 							elbekboltayev06
 						</div>
 						<div className='hr'></div>
@@ -93,8 +94,10 @@ function AboutPages(){
 					</div>
 
 					<div className='frelance'>
-						<div>Shaxar: <br />
-						Shahrisabz</div>
+						<div>
+							Shaxar: <br />
+							Shahrisabz
+						</div>
 						<div className='hr'></div>
 					</div>
 				</div>
@@ -261,7 +264,7 @@ function AboutPages(){
 			</div>
 
 			<div className='lider'>
-				<h2>Ish Tajribam</h2>
+				<h2 className='h22'>Ish Tajribam</h2>
 				<div className='block_edu'>
 					<div className='education'>
 						<div className='job_name'></div>
@@ -276,8 +279,11 @@ function AboutPages(){
 									<div className='yearNum'> 2024-yil</div>
 								</div>
 								<div className='education_name'>
-									Qashqadaryo IT park qoshiga qarashli Ko'kdala IT parkida
-									ishlaganman 6 oy davomida
+									<p>
+										Qashqadaryo IT park qoshiga qarashli Ko'kdala IT parkida 6
+										oy davomida ishlaganman.U yerda o'quvchilarga Front End
+										yo'nalishidan dars berganman.
+									</p>
 								</div>
 							</div>
 						</div>
@@ -298,7 +304,8 @@ function AboutPages(){
 									<div className='job_name'></div>
 									<p>
 										Shahrisabz Shahrida Iqro Liderlari O'quv markazida
-										ishlaganman
+										ishlaganman.Bu o'quv markazida ham o'quvchilarcha IT
+										bo'yicha boshlang'ich bilimlar berganman.
 									</p>
 								</div>
 							</div>

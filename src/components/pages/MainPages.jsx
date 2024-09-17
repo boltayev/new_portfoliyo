@@ -48,7 +48,7 @@ function MainPages(){
 				</p>
 				{/* <button>About me</button> */}
 				<NavLink to='/about' className='span'>
-				 <button>About me</button>
+				 <button>Men haqimda</button>
 				</NavLink>
 			</div>
 			<div className='right_block'>
